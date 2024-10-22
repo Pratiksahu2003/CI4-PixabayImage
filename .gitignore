@@ -1,0 +1,17 @@
+/system/
+/application/cache/
+/application/logs/
+/application/uploads/
+/.env
+/vendor/
+node_modules/
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+/.env.local
+/.env.development
+/.env.production
